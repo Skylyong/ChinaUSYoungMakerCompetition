@@ -31,10 +31,10 @@
 4. 评审标准
    
    1）分赛区选拔赛
-   ![avatar](image/分赛区评审标准.png)
+   ![avatar](image/review_standards01.png)
     
    2)决赛
-    ![avatar](image/决赛评审标准.png)
+    ![avatar](image/review_standards02.png)
 
 5. 奖项设置
    
@@ -51,9 +51,9 @@
         6 个二等项目奖励(排名第五、六、七、八、九、十的最高得分),奖金人民币叁万元整(¥30,000)。
 
 6. 上海赛区时间节点
-![avatar](image/上海赛区时间节点.png)
+![avatar](image/Shanghai_competition_area_time_node.png)
 
-7. 报名网址
+1. 报名网址
    
    [摩课云：中美青年创客大赛](https://cc.moocollege.com/#/details?id=2089)
 

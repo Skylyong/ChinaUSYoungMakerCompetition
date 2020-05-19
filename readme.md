@@ -31,10 +31,15 @@
 4. 评审标准
    
    1）分赛区选拔赛
-   ![avatar](image/review_standards01.png)
+   <!-- ![avatar](image/review_standards01.png) -->
     
+
+    <img src="image/review_standards01.png" alt="图片替换文本" width="50%" height="50%" align="bottom" />
+
    2)决赛
-    ![avatar](image/review_standards02.png)
+
+    <img src="image/review_standards02.png" alt="图片替换文本" width="50%" height="50%" align="bottom" />
+
 
 5. 奖项设置
    
@@ -51,17 +56,18 @@
         6 个二等项目奖励(排名第五、六、七、八、九、十的最高得分),奖金人民币叁万元整(¥30,000)。
 
 6. 上海赛区时间节点
-![avatar](image/Shanghai_competition_area_time_node.png)
+
+    <img src="image/Shanghai_competition_area_time_node.png" width="70%" height="70%" align="bottom" />
 
 1. 报名网址
    
    [摩课云：中美青年创客大赛](https://cc.moocollege.com/#/details?id=2089)
 
-[link1]:https://www.baidu.com
+[link1]:notification/ChinaUSYoungMakerCompetition_rule.pdf
 
-[link2]:https://www.baidu.com
+[link2]:notification/ChinaUSYoungMakerCompetition_ShangHai_scheme.docx
 
-[link3]:https://www.baidu.com
+[link3]:notification/sign_up_guidelines.pdf
 
 参考资料：
 
